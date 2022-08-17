@@ -1,6 +1,11 @@
 - guardian/amiable:dependency-updates_1
 - guardian/amigo:dependency-updates
+- guardian/anghammarad
+- guardian/cdk-playground
+- guardian/elastic-search-monitor
 - guardian/invoicing-api
+- guardian/janus
+- guardian/janus-app
 - guardian/manage-help-content-publisher
 - guardian/marley
 - guardian/members-data-api
@@ -14,9 +19,13 @@
 - guardian/play-googleauth
 - guardian/play-secret-rotation
 - guardian/price-migration-engine
+- guardian/prism
 - guardian/riff-raff:dependency-updates
 - guardian/salesforce-message-handler
+- guardian/sbt-riffraff-artifact
 - guardian/security-hq:dependency-updates
+- guardian/simple-configuration
+- guardian/ssm-scala
 - guardian/support-frontend
 - guardian/support-service-lambdas
 - guardian/zuora-6for6-modifier
