@@ -1,30 +1,52 @@
-[//]: # (- guardian/amiable:dependency-updates_1)
+- guardian/amiable:dependency-updates_1
+
 [//]: # (- guardian/amigo:dependency-updates)
-- guardian/discussion-avatar
-- guardian/identity-processes
-- guardian/invoicing-api
+[//]: # (- guardian/discussion-avatar)
+
+[//]: # (- guardian/identity-processes)
+
+[//]: # (- guardian/invoicing-api)
 
 [//]: # (- guardian/janus-app:dependency-updates)
-- guardian/manage-help-content-publisher
-- guardian/marley
-- guardian/members-data-api
-- guardian/membership-common
-- guardian/membership-frontend
-- guardian/mobile-n10n
-- guardian/ophan-backfill-step-function
-- guardian/ophan-geoip-db-refresher
-- guardian/ophan-housekeeper
-- guardian/payment-failure-comms
-- guardian/play-googleauth
-- guardian/play-secret-rotation
-- guardian/price-migration-engine
+[//]: # (- guardian/manage-help-content-publisher)
+
+[//]: # (- guardian/marley)
+
+[//]: # (- guardian/members-data-api)
+
+[//]: # (- guardian/membership-common)
+
+[//]: # (- guardian/membership-frontend)
+
+[//]: # (- guardian/mobile-n10n)
+
+[//]: # (- guardian/ophan-backfill-step-function)
+
+[//]: # (- guardian/ophan-geoip-db-refresher)
+
+[//]: # (- guardian/ophan-housekeeper)
+
+[//]: # (- guardian/payment-failure-comms)
+
+[//]: # (- guardian/play-googleauth)
+
+[//]: # (- guardian/play-secret-rotation)
+
+[//]: # (- guardian/price-migration-engine)
 
 [//]: # (- guardian/prism:dependency-updates)
-- guardian/riff-raff:dependency-updates
-- guardian/salesforce-message-handler
-- guardian/security-hq:dependency-updates
-- guardian/support-frontend
-- guardian/support-service-lambdas
-- guardian/zuora-6for6-modifier
-- guardian/zuora-creditor
-- guardian/zuora-full-export
+[//]: # (- guardian/riff-raff:dependency-updates)
+
+[//]: # (- guardian/salesforce-message-handler)
+
+[//]: # (- guardian/security-hq:dependency-updates)
+
+[//]: # (- guardian/support-frontend)
+
+[//]: # (- guardian/support-service-lambdas)
+
+[//]: # (- guardian/zuora-6for6-modifier)
+
+[//]: # (- guardian/zuora-creditor)
+
+[//]: # (- guardian/zuora-full-export)
