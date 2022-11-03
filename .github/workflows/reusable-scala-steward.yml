@@ -41,6 +41,6 @@ jobs:
           github-repository: guardian/amiable
 #          branches: kc/scala-steward-fix
 #          branches: main
-          branches: dependency-updates_1
-          cache-ttl: 0s
+          branches: kc/fix-dependency-updates_1
+#          cache-ttl: 0s
 
