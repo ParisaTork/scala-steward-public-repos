@@ -40,4 +40,5 @@ jobs:
           repo-config: common-config/scala-steward.conf # from checkout of guardian/scala-steward-public-repos
           github-repository: guardian/amiable
 #          branches: kc/scala-steward-fix
-          branches: main
+#          branches: main
+          branches: dependency-updates_1
