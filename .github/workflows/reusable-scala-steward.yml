@@ -42,3 +42,5 @@ jobs:
 #          branches: kc/scala-steward-fix
 #          branches: main
           branches: dependency-updates_1
+          cache-ttl: 0s
+
